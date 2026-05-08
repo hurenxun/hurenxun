@@ -25,8 +25,8 @@
 
 ### GitHub Stats
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hurenxun&show_icons=true&theme=transparent" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hurenxun&layout=compact&theme=transparent" />
+  <img height="165" src="https://streak-stats.demolab.com?user=hurenxun&theme=transparent&hide_border=true" alt="GitHub Streak Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hurenxun&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="Top Languages" />
 </p>
 
 ### Contact
