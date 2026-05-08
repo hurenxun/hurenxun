@@ -1,5 +1,6 @@
 <h1 align="center">Hurenxun</h1>
-<p align="center">Build useful products with clean engineering.</p>
+<p>Hi, I’m @Humbert Hu</p>
+<p>Build useful products with clean engineering.</p>
 
 <p align="center">
   <a href="https://github.com/hurenxun"><img src="https://img.shields.io/badge/GitHub-hurenxun-181717?logo=github" alt="GitHub"></a>
