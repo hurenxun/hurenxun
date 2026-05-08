@@ -1,4 +1,3 @@
-<h1 align="center">Hurenxun</h1>
 <p>Hi, I’m @Humbert Hu</p>
 <p>Build useful products with clean engineering.</p>
 
